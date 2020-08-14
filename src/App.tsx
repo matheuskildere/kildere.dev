@@ -3,14 +3,14 @@ import { BrowserRouter, Routes, Route} from 'react-router-dom'
 
 import GlobalStyles from './styles/GlobalStyles'
 import Home from './pages/Home'
+import Drawer from './components/Drawer'
 
 function App() {
   return (
     <BrowserRouter>
-      <h1>Matheus Kildere</h1>
-      
-      <h2><a title='LinkedIn' href= 'https://www.linkedin.com/in/matheus-kildere-35947618b/'>LinkedIn</a></h2>
-      <h2><a title='GitHub' href= 'https://github.com/matheuskildere'>GitHub</a></h2>
+      <Drawer>
+
+      </Drawer>
       <Routes>
         <Route path="/" element={<Home />}/>
       </Routes>
