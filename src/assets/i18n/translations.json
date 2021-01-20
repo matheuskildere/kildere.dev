@@ -1,0 +1,10 @@
+{
+    "en-US": {
+        "home.presentation": "Atualmente, graduando em Engenharia de Software na Universidade Federal do Pampa, trabalhando com desenvolvimento mobile em Flutter e Freelancer. Hoje, apaixonado pelo Framework Flutter e pela linguagem Java, mas nem sempre foi assim. Há mais ou menos dois anos atrás, eu estava no terceiro ano do ensino médio, e como quase 50% dos estudantes, ainda não sabia com o que gostaria de trabalhar ou aprofundar meus estudos. Nas ferias conheci o Gustavo Guanabara e decidi ser um dos pequenos gafanhotos dele, fiz o Exame Nacional do Ensino Médio e consegui passar para uma faculdade Federal, na mesma estudei e aprendi a linguagem Java e participei de um mini-curso de Flutter, desde então, decidi ir mais a fundo no desenvolvimento de ambos. Hoje trabalho como desenvolvedor Flutter e já passei por empresas e startups que admiro bastante.",
+        "home.subtitle": "Graduando em Engenharia de Software"
+    },
+    "pt-BR": {
+        "presentation": "Currently, graduating in Software Engineering at Universidade Federal do Pampa, working with mobile development in Flutter and Freelancer. Today, I love the Framework Flutter and the Java language, but it wasn't always like that. About two years ago, I was in the third year of high school, and like almost 50% of students, I still didn't know what I would like to work on or further my studies with. During the holidays I met Gustavo Guanabara and decided to be one of his little grasshoppers, took the National High School Exam and managed to pass to a Federal college, in the same I studied and learned the Java language and participated in a mini-course of Flutter, since then , I decided to go deeper in the development of both. Today I work as a Flutter developer and have already worked for companies and startups that I admire a lot.",
+        "home.subtitle": "Software Engineering Student"
+    }
+}

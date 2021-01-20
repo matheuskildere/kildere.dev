@@ -123,3 +123,17 @@ export const SocialNetworks = styled.div`
     }
   }
 `;
+
+
+export const Languages = styled.div`
+  display: flex;
+  flex-direction: row;
+
+  .languageButtonPT {
+    color: var(--orange);
+    margin-right: 5px;
+  }
+  .languageButtonEN {
+    color: white;
+  }
+`;
