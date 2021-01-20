@@ -58,7 +58,7 @@ export const ContainerDesktop = styled.div`
 
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;
 
   padding: 0px 25px;
 
@@ -70,6 +70,12 @@ export const ContainerDesktop = styled.div`
     font-weight: 500;
     text-align: justify;
   }
+
+`;
+
+export const Pages = styled.div`
+  display: flex;
+  flex-direction: column;
 
   .icons {
     margin-top: 12px;
@@ -97,4 +103,23 @@ export const ContainerDesktop = styled.div`
             fill: var(--orange)
         }
     }
+`;
+
+export const SocialNetworks = styled.div`
+  display: flex;
+  flex-direction: column;
+  padding: 0px 5px;
+
+  .socialIcons {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+
+    &:hover,
+    &.active {
+        fill: var(--orange)
+    }
+  }
 `;

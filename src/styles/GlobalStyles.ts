@@ -34,6 +34,7 @@ export default createGlobalStyle`
 
     :root {
         --primary: #252628;
+        --greySocialNetworks: #44494D;
         --black: #181818;
         --orange: #F08153;
         --white: #fff;

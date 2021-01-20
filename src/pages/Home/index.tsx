@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Container, PeopleInfo, About, Foto, Row } from './styles';
-import FotoGolaPolo from '../../assets/polo.jpeg'
+import Cartoon from '../../assets/kildere.png'
 
 const Home: React.FC = () => {
   document.title = 'Matheus Kildere'
@@ -20,7 +20,7 @@ const Home: React.FC = () => {
           </About>
           
           <Foto>
-            <img src={FotoGolaPolo} alt= "Matheus Kildere"/>
+            <img src={Cartoon} alt= "Matheus Kildere"/>
           </Foto>
         </Row>
         
